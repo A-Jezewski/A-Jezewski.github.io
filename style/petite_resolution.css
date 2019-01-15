@@ -1,0 +1,98 @@
+	body{
+	background-color: #A393BF;
+	}
+
+	#content{
+		width: 100%;
+		height: auto;
+		margin: auto;
+		
+		transition: all 1s ease;
+		background-color: #73648A;
+	}
+
+header{
+		width: 100%;
+		height: 400px;
+		background-color: #0C0910;
+		padding-top: 5px;
+		margin: auto;
+		transition: all 1s ease;
+	}
+
+#logo{
+		width: 80%;
+		height: 100px;
+		margin: 30px auto;
+		background-color: white;
+		border: 3px solid black;
+		transition: all 1s ease;
+	}
+
+	nav{
+		width: 100%;
+		height: 80px;
+		border: 0px solid black;
+		background-color: black;
+		margin: auto;
+		transition: all 1s ease;
+	}
+
+	li{
+		background-color: red;
+		width: 190px;
+		margin: 16px auto;
+		display: block;
+		height: 40px;
+		transition: all 1s ease;
+	}
+
+	ul{
+		display: block;
+	}
+
+	#principale{
+		width: 100%;
+		height: 400px;
+		margin: auto;
+		background-color: white;
+		padding-top: 90px;
+		transition: all 1s ease;
+	}
+
+	#boite{
+		width: 80%;
+		height: 300px;
+		margin: auto;
+		background-color: #A393BF;
+		border: 3px solid black;
+		transition: all 1s ease;
+	}
+
+	#secondaire{
+		width: 100%;
+		height: 500px;
+		margin: auto;
+		background-color: black;
+		padding-top: 90px;
+		display: -ms-flexbox;
+		display: flex;
+		transition: all 1s ease;
+	}
+
+	article{
+		width: 200px;
+		height: 200px;
+		margin: auto;
+		background-color: #A393BF;
+		border: 3px solid black;
+		transition: all 1s ease;
+	}
+
+	footer{
+		width: 100%;
+		height: 50px;
+		background-color: white;
+		margin: auto;
+		transition: all 1s ease;
+	}
